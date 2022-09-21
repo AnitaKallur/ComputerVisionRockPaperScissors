@@ -5,4 +5,4 @@ After traing the model, combine the hand gesture file and code the rock paper sc
 Once everything is aligned, we are ready to play the game using camera. 
 I have made this game using simple codes which is easily understandable. 
 I have used few simple methods 
-I may consider adding few more features to the game in future..
+I may consider adding few more features to the game in future.
